@@ -1,0 +1,22 @@
+
+
+.button-style{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 40px;
+    margin-right: 10px;
+
+}
+body{
+    padding-left: 20%;
+    padding-right: 20%;
+    font-family: "inter";
+}
+.login{
+    border: 1px solid black;
+    border-radius: 10px;
+}
